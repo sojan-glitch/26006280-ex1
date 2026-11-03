@@ -85,6 +85,7 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
+<img width="1920" height="1080" alt="sojan(26006280) ex1" src="https://github.com/user-attachments/assets/2a7f97d1-d9c8-4111-a809-22de7461ba4a" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
